@@ -2,9 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
-import numpy as np
-import base64
-
+]
 st.title("NBA Player Stats Data")
 st.write("This webapp perform web scrapping of NBA players stats data")
 st.write("**Python Libraries:** base64, pandas, matplotlib")
