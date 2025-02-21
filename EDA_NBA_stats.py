@@ -5,7 +5,7 @@ import pandas as pd
 
 st.title("NBA Player Stats Data")
 st.write("This webapp perform web scrapping of NBA players stats data")
-st.write("**Python Libraries:** pandas, matplotlib")
+st.write("**Python Libraries:** pandas, matplotlib, seaborn")
 st.write("**Data Source:**[basketball-reference.com](https://www.basketball-reference.com)")
 st.write("***")
 
